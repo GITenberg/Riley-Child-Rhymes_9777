@@ -1,5 +1,8 @@
 _repo: Riley-Child-Rhymes_9777
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Riley, James Whitcomb
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_Whitcomb_Riley
 description: Presents a collection of James Whitcomb Riley's poems, including "Old
   Aunt Mary's," "Little Orphant Annie," and "The Raggedy Man."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9777#Riley-Child-Rhymes
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
